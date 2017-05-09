@@ -6,7 +6,7 @@ buildscript {
     }
     dependencies {
         classpath 'com.android.tools.build:gradle:2.3.1'
-        classpath 'io.github.retropiler:retropiler-gradle-plugin:0.0.2'
+        classpath 'io.github.retropiler:retropiler-gradle-plugin:0.0.5'
     }
 }
 
